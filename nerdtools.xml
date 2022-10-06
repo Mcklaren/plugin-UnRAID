@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/UnRAIDES/unRAID-NerdTools/main/plugin/NerdTools.plg</PluginURL>
+<PluginAuthor>UnRAIDES</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>NerdTools</Name>
+<Description>
+Install and Uninstall extra packages easily.
+</Description>
+<MinVer>6.11.0</MinVer>
+<Date>2022-10-05</Date>
+<Support>http://lime-technology.com/forum/</Support>
+<Icon>https://github.com/UnRAIDES/plugin-UnRAID/raw/main/nerdtools.png</Icon>
+</Containers>
+
